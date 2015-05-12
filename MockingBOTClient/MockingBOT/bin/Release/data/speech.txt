@@ -1,0 +1,86 @@
+0 = Greeting ("Hello, {0}!")
+1 = Ask to follow ("Would you like me to follow you for a bit?")
+2 = Follow confirm ("Right behind you.")
+3 = Follow deny ("Okay, no problem.")
+4 = Ask to follow; already following ("...I am following you.")
+5 = Ask to stop following ("Okay! Sorry, did I bother you?")
+6 = Ask to stop following; not following ("Stop what?")
+
+7 = Ask for story ("Tell me a story")
+8 = Hearing story ("/me nods attentively")
+9 = Hearing story 2 ("/me nods attentively")
+10 = Hearing story 3 ("/me nods attentively")
+11 = Ask if over ("Is that the end?")
+12 = Story over ("Thank you for that!")
+13 = Story not over ("Oh - sorry!")
+
+14 = Tell story ("Okay!")
+15 = Tell story; no stories ("I don't know any stories...")
+16 = Story end ("And that's the end~")
+
+17 = Go to tour location ("This way~")
+18 = Tourist teleport ("Would you like to join me?")
+19 = Tour end ("And that is the end of the tour.")
+20 = Tour commence ("Okay!")
+21 = Greet latecomer tourist; tour commence ("Hello!")
+22 = Tourist late; ask to stop tour ("Would you like to stop the tour?")
+23 = Tourist late; don't stop ("Okay! I'm at the next stop. Come join me!")
+24 = Tourist late; stop ("Okay! Come talk to me if you change your mind!")
+25 = End tour spot; more to go ("Tell me when you would like to proceed.")
+26 = End tour spot; last spot ("This is the end of the tour. Anything else you would like to know?")
+27 = Stop tour ("Okay!")
+28 = Stop tour; wasn't touring ("...We weren't on a tour, were we?")
+
+29 = Flood detect ("I tripped a flood detect. I'm sorry, I didn't mean to!")
+
+30 = Ask to teleport ("Okay! Attempting to teleport.")
+
+31 = Asked to start learning tour ("/me diligently takes notes.")
+32 = Point out tourist spot ("/me nods and writes down {0}.")
+33 = Hear story about tourist spot ("/me nods attentively")
+34 = Hear story about tourist spot 2 ("/me nods attentively")
+35 = Hear story about tourist spot 3 ("/me nods attentively")
+36 = Stop teaching ("Okay!")
+37 = Stop teaching; wasn't learning ("...We weren't on a tour, were we?")
+
+38 = Not on access list ("Sorry, you're not on the access list. I'm only for private use at the moment")
+39 = Doesn't have response ("Pardon?")
+
+40 = Happy exclamation ("Great!")
+41 = Happy exclamation 2 ("Okay!")
+42 = 'All right'; spoken ("All right.")
+43 = 'All right'; exclamation ("All right!")
+44 = Rejected 1 ("Oh, okay...")
+45 = Rejected 2 ("Arright, no problem")
+46 = Sad exclamation (":(")
+47 = Thank you ("Thank you!")
+
+60 = Ask if they want to hear story ("Wanna hear a story?")
+
+61 = Finished hitchhiking; reached destination ("Thank you! This is where I wanted to be.")
+62 = Farewell ("Take care!")
+63 = Ask to finish story ("...Should I finish the story?")
+
+64 = Sees person; waves ("/me waves")
+65 = Persons passes by ("/me sighs.")
+66 = Tell where going ("I am on my way to {0}, which is about {1} miles going {2}.")
+67 = Tell where going; city only ("I am on my way to {0}.")
+
+68 = Talk about city ("Hey, we're in {0}.")
+
+69 = Greeting known person ("Hello again, {0}!")
+
+70 = Ask if would like tour ("Would you like a tour?")
+71 = Tour refused ("Arright. Come talk to me if you change your mind.")
+72 = No tours available ("No tours available")
+
+73 = Asked to stop folllwing; wasn't following ("I wasn't following you.")
+
+74 = Asked to stop talking ("Shutting up.")
+
+75 = Tweeted ("Tweeted!")
+76 = Can't tweet; too long ("That's too long to tweet! It was {0} characters - {1} too many!")
+
+77 = Weather ("The date is {0}. Conditions are {1}, with a low of {2} and a high of {3}")
+78 = Ask to share story ("May I share it?")
+80 = Improper command ("I don't believe that's a proper command.")

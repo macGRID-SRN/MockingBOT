@@ -1,0 +1,1381 @@
+<?xml version="1.0"?>
+<BotStorage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <bots>
+    <botSettings>
+      <name>John Lunau</name>
+      <description>The Markham Museum curator bot.</description>
+      <homeRegion>
+        <Guid>efb29615-3a13-41a3-b458-cf27af7afaa6</Guid>
+      </homeRegion>
+      <homeLoc>
+        <X>128</X>
+        <Y>128</Y>
+        <Z>70</Z>
+      </homeLoc>
+      <moveType>1</moveType>
+      <botType>2</botType>
+      <privateaccess>false</privateaccess>
+      <autotweet>false</autotweet>
+      <idleTime>0</idleTime>
+      <stuckTime>0</stuckTime>
+      <wanderDest>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </wanderDest>
+      <allowednodes>
+        <int>1</int>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+        <int>5</int>
+        <int>6</int>
+        <int>7</int>
+        <int>8</int>
+        <int>9</int>
+        <int>10</int>
+        <int>1</int>
+        <int>2</int>
+        <int>3</int>
+        <int>6</int>
+        <int>7</int>
+        <int>8</int>
+        <int>11</int>
+        <int>12</int>
+        <int>13</int>
+        <int>14</int>
+        <int>15</int>
+        <int>16</int>
+        <int>17</int>
+        <int>18</int>
+        <int>19</int>
+        <int>20</int>
+        <int>20</int>
+        <int>21</int>
+        <int>21</int>
+        <int>22</int>
+        <int>23</int>
+        <int>24</int>
+        <int>25</int>
+        <int>26</int>
+        <int>27</int>
+        <int>28</int>
+        <int>29</int>
+        <int>30</int>
+        <int>31</int>
+        <int>32</int>
+        <int>33</int>
+        <int>34</int>
+        <int>35</int>
+        <int>36</int>
+        <int>37</int>
+        <int>38</int>
+        <int>39</int>
+        <int>40</int>
+        <int>41</int>
+        <int>42</int>
+        <int>43</int>
+        <int>44</int>
+        <int>45</int>
+        <int>46</int>
+        <int>47</int>
+        <int>48</int>
+        <int>49</int>
+        <int>50</int>
+        <int>51</int>
+        <int>52</int>
+        <int>53</int>
+        <int>54</int>
+        <int>55</int>
+        <int>56</int>
+      </allowednodes>
+      <allowedstories>
+        <int>1</int>
+      </allowedstories>
+      <allowedroutines>
+        <int>1</int>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+      </allowedroutines>
+      <allowedtours>
+        <int>1</int>
+        <int>2</int>
+      </allowedtours>
+      <casualspeech>false</casualspeech>
+      <speech>
+        <ArrayOfString>
+          <string>Hello, {0}. This is the Markham Museum, and I'm John Lunau, its curator. Pleased to meet you. You can ask me any question you want, and I'll try to respond using what information is available to me. Right now, I'm only able to tell you about the museum and the things therein. By that, I mean I literally don't know about anything else. Ignorance is bliss and all that. | Good day, {0}. This is the Markham Museum, and I'm John Lunau, its curator. Pleased to meet you. You can ask me any questions you like. My purpose is solely to talk about the museum, however, so do keep that in mind.</string>
+          <string>Would you like me to follow you for a bit?</string>
+          <string>Right behind you.</string>
+          <string>Okay, no problem.</string>
+          <string>...I am following you.</string>
+          <string>Okay! Sorry, did I bother you?</string>
+          <string>Stop what?</string>
+          <string>Tell me a story</string>
+          <string>/me nods attentively</string>
+          <string>/me nods attentively</string>
+          <string>/me nods attentively</string>
+          <string>Is that the end?</string>
+          <string>Thank you for that!</string>
+          <string>Oh - sorry!</string>
+          <string>Okay!</string>
+          <string>I don't know any stories...</string>
+          <string>And that's the end~</string>
+          <string>This way~</string>
+          <string>Would you like to join me?</string>
+          <string>And that is the end of the tour.</string>
+          <string>Okay!</string>
+          <string>Hello!</string>
+          <string>Would you like to stop the tour?</string>
+          <string>Okay! I'm at the next stop. Come join me!</string>
+          <string>Okay! Come talk to me if you change your mind!</string>
+          <string>Tell me when you would like to proceed.</string>
+          <string>This is the end of the tour. Anything else you would like to know?</string>
+          <string>Okay!</string>
+          <string>...We weren't on a tour, were we?</string>
+          <string>I tripped a flood detect. I'm sorry, I didn't mean to!</string>
+          <string>Okay! Attempting to teleport.</string>
+          <string>/me diligently takes notes.</string>
+          <string>/me nods and writes down {0}.</string>
+          <string>/me nods attentively</string>
+          <string>/me nods attentively</string>
+          <string>/me nods attentively</string>
+          <string>Okay!</string>
+          <string>...We weren't on a tour, were we?</string>
+          <string>Sorry, you're not on the access list. I'm only for private use at the moment</string>
+          <string>I'm sorry, I don't have a response to that. I can only answer questions specific to the Museum - buildings, artists, and current events. Do be aware that spelling is important in order for me to understand you!</string>
+          <string>Great!</string>
+          <string>Okay!</string>
+          <string>All right.</string>
+          <string>All right!</string>
+          <string>Oh, okay...</string>
+          <string>Arright, no problem.</string>
+          <string>:(</string>
+          <string>Thank you!</string>
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string>Wanna hear a story?</string>
+          <string>Thank you! This is where I wanted to be.</string>
+          <string>Take care!</string>
+          <string>...Should I finish the story?</string>
+          <string>/me waves.</string>
+          <string>/me sighs.</string>
+          <string>I am on my way to {0}, which is about {1} miles going {2}.</string>
+          <string>I am on my way to {0}.</string>
+          <string>Hey, we're in {0}.</string>
+          <string>Hello again, {0}!</string>
+          <string>Would you like a tour?</string>
+          <string>Arright. Come talk to me if you change your mind.</string>
+          <string>No tours available.</string>
+          <string>I wasn't following you.</string>
+          <string>Shutting up.</string>
+          <string>Tweeted!</string>
+          <string>That's too long to tweet! It was {0} characters - {1} too many!</string>
+          <string>The date is {0}. Conditions are {1}, with a low of {2} and a high of {3}.</string>
+          <string>May I share it?</string>
+          <string />
+          <string>I don't believe that's a proper command.</string>
+        </ArrayOfString>
+      </speech>
+      <currentspeech>0</currentspeech>
+      <speechnames>
+        <string>Default</string>
+      </speechnames>
+      <sbindings>
+        <string>Greeting</string>
+        <string>Ask to follow</string>
+        <string>Confirm follow</string>
+        <string>Deny follow</string>
+        <string>Asked to follow; already following</string>
+        <string>Asked to stop following</string>
+        <string>Askd to stop following; not following</string>
+        <string>Ask for a story</string>
+        <string>Hearing story</string>
+        <string>Hearing story 2</string>
+        <string>Hearing story 3</string>
+        <string>Hearing story; ask if over</string>
+        <string>Hearing story; story over</string>
+        <string>Hearing story; story not over</string>
+        <string>Tell story; success</string>
+        <string>Tell story; no stories</string>
+        <string>Telling story; story over</string>
+        <string>Go to tour location</string>
+        <string>Tourist teleport</string>
+        <string>Tour end</string>
+        <string>Reached tour spot; begin explanation</string>
+        <string>Reached tour spot; greet latecomer tourist; begin explanation</string>
+        <string>Tourist late; ask to stop tour</string>
+        <string>Tourist late; don't stop</string>
+        <string>Tourist late; stop</string>
+        <string>End tour spot; more to go</string>
+        <string>End tour spot; last spot</string>
+        <string>Stop tour</string>
+        <string>Stop tour; wasn't touring</string>
+        <string>Flood detected</string>
+        <string>Ask to teleport</string>
+        <string>Asked to start learning tour</string>
+        <string>Point out tourist spot</string>
+        <string>Hear story about tourist spot</string>
+        <string>Hear story about tourist spot 2</string>
+        <string>Hear story about tourist spot 3</string>
+        <string>Stop teaching</string>
+        <string>Stop teaching; wasn't learning</string>
+        <string>Not on access list</string>
+        <string>Doesn't have response</string>
+        <string>Happy exclamation</string>
+        <string>Happy exclamation 2</string>
+        <string>'All right'; spoken</string>
+        <string>'All right'; exclamation</string>
+        <string>Rejected 1</string>
+        <string>Rejected 2</string>
+        <string>Sad exclamation</string>
+        <string>Thank you</string>
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string>Ask to tell story</string>
+        <string>Hitchhiking; reached destination</string>
+        <string>Hitchhiking; farewell</string>
+        <string>Hitchhiking; Ask to finish story</string>
+        <string>Sees person; waves</string>
+        <string>Person passes by</string>
+        <string>Tell where going</string>
+        <string>Tell where going; city only</string>
+        <string>Note city</string>
+        <string>Greeting a known person</string>
+        <string>Ask to give tour</string>
+        <string>Tour refused</string>
+        <string>No tours available</string>
+        <string>Asked to stop following; wasn't</string>
+        <string>Asked to stop talking</string>
+        <string>Tweeted</string>
+        <string>Can't tweet; too long</string>
+        <string>Weather</string>
+        <string>Ask to share story</string>
+        <string />
+        <string>Improper command</string>
+      </sbindings>
+      <alist>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+      </alist>
+      <wordsKnown>
+        <string>john</string>
+        <string>tell</string>
+        <string>me</string>
+        <string>about</string>
+        <string>markham</string>
+        <string>the</string>
+        <string>museum</string>
+        <string>chapman</string>
+        <string>house</string>
+      </wordsKnown>
+      <wordTypes>
+        <string>Noun</string>
+        <string>Verb</string>
+        <string>Pronoun</string>
+        <string>Preposition</string>
+        <string>Noun</string>
+        <string>Determiner</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Noun</string>
+      </wordTypes>
+      <mPeople>
+        <UUID>
+          <Guid>d55f3e64-0290-4a5d-9292-d7db6f96bd7c</Guid>
+        </UUID>
+      </mPeople>
+      <mRelationship>
+        <int>0</int>
+      </mRelationship>
+      <mLearning>
+        <ArrayOfInt>
+          <int>1</int>
+          <int>1</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>1</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>1</int>
+          <int>0</int>
+          <int>0</int>
+          <int>1</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+        </ArrayOfInt>
+      </mLearning>
+      <mTwitter />
+      <idleLoc>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </idleLoc>
+    </botSettings>
+  </bots>
+  <nodes>
+    <textNode>
+      <connections />
+      <dependencies>
+        <int>18</int>
+      </dependencies>
+      <options />
+      <_x>803</_x>
+      <_y>68</_y>
+      <_width>166</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>5</_id>
+      <_data>I am a Bot. I'm being controlled remotely by a Windows application, developed using C# and OpenMetaverse for use in MacGRID. Currently, this is still in testing - it may still contain glitches that need to be worked out. Lily Beaul is the sole developer, so if you encounter problems, please, blame h- I mean... let her know. Nicely. Please.</_data>
+      <_subject>Bot</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections>
+        <int>18</int>
+      </connections>
+      <dependencies>
+        <int>10</int>
+      </dependencies>
+      <options />
+      <_x>998</_x>
+      <_y>172</_y>
+      <_width>171</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>9</_id>
+      <_data>The MacGRID initiative is led by Dr. David Harris Smith, Assistant Professor in Communication Studies &amp; Multimedia at McMaster, and has been advanced by collaborators and contributors including new media artist Ian Murray, Humanities Media Computing, SHARCNET High Performance Computing, GRAND NCE, Dr. Eleni Stroulia and students at the Department of Computing Science at the University of Alberta, and Dr. Suzanne Crosta, Dean of Humanities and Dr. Mo Elbestawi, Vice President of Research at McMaster.</_data>
+      <_subject>who MacGRID contributors</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections>
+        <int>56</int>
+      </connections>
+      <dependencies>
+        <int>18</int>
+      </dependencies>
+      <options />
+      <_x>1187</_x>
+      <_y>123</_y>
+      <_width>186</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>10</_id>
+      <_data>"Dr. David Harris Smith is Assistant Professor in the Department of Communication Studies and Multimedia at McMaster University. David is an artist and researcher in interactive new media. His research interests include new media and digital cultures, interaction design, and the practices and applications of virtual worlds and mixed reality environments. He teaches courses in Design Fundamentals, DIY Media and Cultures of Peer Production, Avatar Cultures and New Media Arts. David is the Director of Research for the macGRID Simulation Research Network an international research network utilizing the Open Simulator platform and SHARCNET High Performance Computing."</_data>
+      <_subject>Dr^Smith Dr^David David Harris Smith</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections>
+        <int>19</int>
+      </connections>
+      <dependencies>
+        <int>20</int>
+      </dependencies>
+      <options />
+      <_x>101</_x>
+      <_y>23</_y>
+      <_width>187</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>1</_id>
+      <_data>Markham Museum is a big open-air museum, our little slice of history in the middle of the Greater Toronto Area. But you knew that. You're standing in it. Look around. It's got 30 buildings that come straight from the 19th century (1820-1920) and 80,000 or-so historical artifacts besides. Currently, we're showcasing Land|Slide, which is why I was installed.</_data>
+      <_subject>Markham^Museum Museum</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections>
+        <int>17</int>
+      </connections>
+      <dependencies />
+      <options />
+      <_x>95</_x>
+      <_y>64</_y>
+      <_width>176</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>2</_id>
+      <_data>Markham's a fair city, and luckily, it just so happens to be where you stand now. Congratulations. Remarkably, it's only been a city since July 2012.</_data>
+      <_subject>Markham</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>91</_x>
+      <_y>110</_y>
+      <_width>170</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>3</_id>
+      <_data>Hoover House was built in 1824 for Christian K. Hoover and his newlywed, Anna Lehman. They went ahead and upgraded to a brick home in 1851, though, but not before having their first son. The house ended up being used by Russian Mennonite immigrants as they went west to Manitoba, going between 1873 and 1875. Finally, in the 1950's, Dr. Charles Williams sold the house out of the family estate. It, and the smokehouse behind it, were donated to the Museum in 1975. Anyway, it's a frame house, influenced by Pennsylvania German architecture. It's somewhat bare, but the Mennonites liked it that way, I suppose.</_data>
+      <_subject>Hoover^House</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>96</_x>
+      <_y>157</_y>
+      <_width>182</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>6</_id>
+      <_data>Nathan Chapman Jr. was a farmer who went ahead and purchased 98 acres of land in May 1831, and this house was built around that year, most likely finished in '32. By then, Nathan had married Elizabeth Lameraux. After her death, he then married Amelia Humberstone in 1842. After Nathan's death in 1892, the house were left to their daughter. It was relocated to Markham Museum in 1978. This is one of the few buildings we have of plank-on-plank construction - it seems the Chapman family had more resources to spend on these things. Note the neo-classical trim on the door, should you go over there.</_data>
+      <_subject>Chapman^House</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>88</_x>
+      <_y>203</_y>
+      <_width>169</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>7</_id>
+      <_data>Built in the Gothic Revival style, the Ninth Line Baptist Church was constructed in 1848. It was originally located on 9th Line, hence its name. Then, in 1954, Hurricane Hazel decided to roll through and damage the thing. The church thus went through some changes, though it operated well enough until 1958, when it finally succumbed to a force far worse than time or hurricanes: declining church attendence. It was moved to the Museum in 1981. brick-by-brick (of which there are 35,000...  yes, we counted) and opened as a non-denominational church the year after. It's currently used heavily in the summertime for weddings.</_data>
+      <_subject>Ninth^Line 9th^Line Baptist^Church Line^Church</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>93</_x>
+      <_y>254</_y>
+      <_width>176</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>8</_id>
+      <_data>This log house was constructed in 1850, by James Maxwell. He and his wife, Euphemia, had operated a power grist mill from 1828 to 1947, when their interests waned and they looked to farming. In 1894, after James' death, the cabin and land were sold out of the estate. The Little family, who owned it last, donated everything to the Museum in 1962. A new site was found for it in 1970.</_data>
+      <_subject>Maxwell^House</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>106</_x>
+      <_y>302</_y>
+      <_width>201</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>11</_id>
+      <_data>The Wilson Variety Hall? This General Store was owned and operated by Henry Wilson in the late 19th century. He and his wife, Clementina, were operating a decent millinery and fancy goods store in the village, so they relocated to this larger building in 1875. It was sold in 1918 to Dr. John MacDonald, and was relocated to the Museum grounds in 1995.</_data>
+      <_subject>Wilson^Variety^Hall Wilson^Hall Wilson</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>397</_x>
+      <_y>114</_y>
+      <_width>188</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>12</_id>
+      <_data>Built in 1936, the Locust Hill Station was originally located in Locust Hill, hence the name. The building replaced an earlier one made in 1887, which was destroyed by a fire in 1935. In 1884, the Ontario and Quebec Railway worked in cooperation with the Canadian Pacific Railway to purchase land from William Button, just for this station. The first one was a two-storey building with an apartment made for the station-master on the second floor. In 1884, the trains began to run between Perth and Toronto, enabling Locust Hill to become a bustling village. Come 1969, service through this station stopped, so the building was moved to this Museum in 1983.</_data>
+      <_subject>Locust^Hill Train^Station Locust Railway^Station Locust^Station</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>389</_x>
+      <_y>158</_y>
+      <_width>176</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>13</_id>
+      <_data>The Acadia Car was built in 1921 by the Canadian Car and Foundry Company, and was put into service in 1922. At first it was used by the Board of Railway Commissioners to transport members across Canada on business for the government. In 1958, it began to transport other officials, dignitaries, and special guests... in short, people most common folk wouldn't want to be around anyway. The Car was used by Princess Margaret on her 1958 tour of Eastern Canada, by Prime Minsiter John Diefenbaker on his 1963 campaign trail, and by Pierre Trudeau when he was in office. It went out of service in 1974, and the Museum purchased it in 1985. It was fully restored in '91.</_data>
+      <_subject>Acadia Acadia^Train Train^Car Acadia^Car</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>352</_x>
+      <_y>199</_y>
+      <_width>100</_width>
+      <_height>30</_height>
+      <_color>0</_color>
+      <_id>14</_id>
+      <_data />
+      <_subject>Ward^Building Exhibit^Building Ward^Transpotation</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>93</_x>
+      <_y>348</_y>
+      <_width>172</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>15</_id>
+      <_data>The Blacksmith shop is a simple frame building, built by Henry Lapp in 1862. He kept it until 1905, during which time 9 blacksmiths had come and gone, using the building for their business. The final one was Arthur Clendenen who first began working in this shop in 1896 and was known to be able to single-handedly put on 90 horseshoes in one day. See, historians are able to dig that kind of thing up, but you know how hard it is to put together whatever the hell the pre-Socratics talked about? Weird. Anyway, Arthur purchased the whole building from Lapp in 1905, and continued to work the horseshoes for 60 years until 1956. In 1977, it was relocated to the Museum.</_data>
+      <_subject>Blacksmith Cedar^Grove</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>91</_x>
+      <_y>391</_y>
+      <_width>169</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>16</_id>
+      <_data>The Cider Mill was actually built using supplies from three different mills, all in different Townships. Originally, it was an old shed, property of the Lapps, and the inner workings came from their own cider mill. This one is considered to be one of the earliest and largest mills operating in the Markham Township, around the mid-to-late-19th century. All this equipment was purchased and donated to the Museum by Austin Reesor. The line shafts, through which belts drive the machinery, are a third component that was taken from Altona Mills, located in the Pickering Township. The owner of the mill, peter Nighswander, purchased the screw press from the Stouffville Vinegar Works. The Museum rebuilt the drive shed and installed the equipment between 1981 and 1983 and the mill was fully operational in 1983, for our First Annual Applefest. Long story short, this thing's been through a lot, so be nice to it.</_data>
+      <_subject>Cider^Mill</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections>
+        <int>2</int>
+      </connections>
+      <dependencies />
+      <options />
+      <_x>448</_x>
+      <_y>65</_y>
+      <_width>189</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>17</_id>
+      <_data>Markham currently has a population exceeding 300,000 people, which makes it the fourth largest within the Greater Toronto Area. </_data>
+      <_subject>population Markham^population</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections>
+        <int>9</int>
+      </connections>
+      <dependencies />
+      <options />
+      <_x>804</_x>
+      <_y>123</_y>
+      <_width>176</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>18</_id>
+      <_data>MacGRID is a robust, archivable, simulation research platform and a corresponding network of academic, industry and community partners who wish to engage in multidisciplinary research and creation, and resource and knowledge sharing, using avatar virtual worlds and mixed reality systems. Right now, we're highly fond of using OpenSimulator.</_data>
+      <_subject>what macGRID</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections>
+        <int>1</int>
+      </connections>
+      <dependencies />
+      <options />
+      <_x>447</_x>
+      <_y>24</_y>
+      <_width>178</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>19</_id>
+      <_data>The museum's been known in the past as The Markham District Historical Museum, and then Markham Museum and Historic Village. Little twists of language that all mean the same thing.</_data>
+      <_subject>name used^called called</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections>
+        <int>21</int>
+        <int>22</int>
+      </connections>
+      <dependencies />
+      <options />
+      <_x>647</_x>
+      <_y>302</_y>
+      <_width>163</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>20</_id>
+      <_data>Land|Slide Possible Futures is an art exhibit, meant for artists to propose new and exciting ways of using land. 35 artists of various nationalities are invited to show off their exhibits, which are largely centered around themes of 'multiculturalism, sustainability, and community'. Markham Museum is used as a backdrop, as a way of reminding us of our past, our current concerns with the environment, development, farming, history, and diversity, all while we look towards our future. It runs from September 21st to October 14th.</_data>
+      <_subject>Land|Slide LandSlide Land^Slide</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections>
+        <int>20</int>
+      </connections>
+      <dependencies />
+      <options />
+      <_x>647</_x>
+      <_y>356</_y>
+      <_width>210</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>21</_id>
+      <_data>Our artists on display here at Land|Slide are Adrian Blackwell and Jane Hutton, Ali Kazimi, Allyson Mitchell, Andrew Bieler, Angel Chen, Aron Louis Cohen, Blue Republic, Camille Turner, Christine Davis, David Kidman, Deirdre Logue, Department of Unusual Certainties, Duke and Battersby, Frank Havermans, Iain Baxter, Jeff Thomas, Jennie Suddick, Sky Hill Farms, Julie Nagam, Ken Gregory, Laura St Pierre, Maria Hupfield, Marman and Borins, Mark David Hosale, Patricio Davila and Dave Colangelo, Philip Hoffman, Sean Martindale and Lisa Myers, Terrence Houle, Tongue and Groove Collective, Xu Tan, David Han, Glynis Logue, and David Harris Smith. Feel free to ask me about any of these participants. I can also tell you about a random artist, if you would like to explore. </_data>
+      <_subject>Land|Slide^artists Landslide^artists exhibits shows</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections>
+        <int>20</int>
+      </connections>
+      <dependencies>
+        <int>20</int>
+      </dependencies>
+      <options />
+      <_x>853</_x>
+      <_y>302</_y>
+      <_width>189</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>22</_id>
+      <_data>Land|Slide couldn't have been done without the help of sponsors. As such, they'd like to thank the Canada Council for the Arts, the Ontario Cultural Attractions Fund, the Social Sciences and Humanities Research Council, the Trudeau Foundation, Markham Museum - you're welcome - the Public Access Collective, the Faculty of Fine Arts at York University, the Sensorium of Digital Arts and Technology Research, the Gendai Gallery, the Greenbelt Foundation, the York Region Food Network, Seeds for Changes, the York Region Arts Council, the Varley Art Gallery, and Unionville High School.</_data>
+      <_subject>LandSlide^Partners Land|Slide^Partners Land^Slide^Partners Supporters</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options>
+        <int>30</int>
+        <int>37</int>
+        <int>24</int>
+        <int>25</int>
+        <int>36</int>
+        <int>26</int>
+        <int>35</int>
+        <int>27</int>
+        <int>34</int>
+        <int>28</int>
+        <int>32</int>
+        <int>52</int>
+        <int>49</int>
+        <int>38</int>
+        <int>39</int>
+        <int>40</int>
+        <int>41</int>
+        <int>56</int>
+        <int>51</int>
+        <int>50</int>
+        <int>48</int>
+        <int>47</int>
+        <int>46</int>
+        <int>33</int>
+        <int>31</int>
+        <int>29</int>
+        <int>42</int>
+        <int>43</int>
+        <int>44</int>
+        <int>45</int>
+        <int>53</int>
+        <int>54</int>
+        <int>55</int>
+      </options>
+      <_x>647</_x>
+      <_y>484</_y>
+      <_width>179</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>23</_id>
+      <_data>You'd like to hear about a random artist? Certainly.</_data>
+      <_subject>random^artist random^persom random^exhibit</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>417</_x>
+      <_y>411</_y>
+      <_width>179</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>24</_id>
+      <_data>Adrian Blackwell and Jane Hutton are set up at the Harness Shop. Their project is an architectural intervention on a heritage house. The architects have reimagined the landscape and topography of the site in Markham, and will reinstall it at its new location here on the Museum. Visitors can look out the window of the house and see the land as it originally appeared, long ago. Adrian is a guest from Toronto, whereas Jane comes to us from Boston.</_data>
+      <_subject>Adrian Blackwell Jane Hutton</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>379</_x>
+      <_y>451</_y>
+      <_width>195</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>25</_id>
+      <_data>Ali Kazimi is set up at Hoover House. His project is a 3D video installation, that creates a richy sensory environment infused by locavore cuisine and multi-cultural identity. Focus on a single drop of water, shot at thousands of frames per second, placed inside a perfectly stilled house from a bygone period of time.</_data>
+      <_subject>Ali Kazimi</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>374</_x>
+      <_y>491</_y>
+      <_width>197</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>26</_id>
+      <_data>Allyson Mitchell is set up in Chapman House. His project is a haunted house, made up of hundreds of unique woven spider webs, and the audible ghosts of the alternative lives of Chapman House.</_data>
+      <_subject>Allyson Mitchell</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>382</_x>
+      <_y>529</_y>
+      <_width>185</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>27</_id>
+      <_data>Andrew Bieler is set up at the farm. His project is a 'learing farm', proposing the growing of crops and objects as a new medium of artistic expression.</_data>
+      <_subject>Andrew Bieler</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>425</_x>
+      <_y>568</_y>
+      <_width>219</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>28</_id>
+      <_data>Angel Chen's location was not determined at the time I recieved this information, but her project is a social investigation that places community participation in city building in the convival environment of a restaurant. Customers in dim sum restaurants across Markham are engaged to pick what they would like to see in their city from dim sum menus.</_data>
+      <_subject>Angel Chen</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>438</_x>
+      <_y>606</_y>
+      <_width>171</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>29</_id>
+      <_data>Aron Louis Cohen, coming to us from New York, is set up at the Print Shop. His project is a process oriented exhibition haresting plants, turning them into paper, and creating books out of them.</_data>
+      <_subject>Aron Louis Cohen</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>643</_x>
+      <_y>568</_y>
+      <_width>179</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>30</_id>
+      <_data>The Blue Republic is set up at the Church. Their project is a text and object oriented installation that uses the materials of the church to create a visually striking space.</_data>
+      <_subject>Blue^Republic Republic</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>636</_x>
+      <_y>608</_y>
+      <_width>221</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>31</_id>
+      <_data>Camille Turner is set up at the Concession Stand and Sun Dial. Her project is a series of audio walks with a theme of hidden back history in Canada, tied to an augumented reality component.</_data>
+      <_subject>Camille Turner</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>853</_x>
+      <_y>567</_y>
+      <_width>189</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>32</_id>
+      <_data>Christine Davis is set up at Hausser House. Her project is an architectural and video installation composed of eggshells that evoke the obsessive pursuit of perfection and standards. The form of eggs rests uncomfortable between delicate and robust structures.</_data>
+      <_subject>Christine^Davis Davis</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>836</_x>
+      <_y>607</_y>
+      <_width>170</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>33</_id>
+      <_data>David Kidham comes to us from France. He is currently set up at the Saw Mill. His project is a series of hand-made digital analogues; 3D video environments of machiens and mechanisms in the Saw Mill, looping through the repetitive human movements at the heart of all development.</_data>
+      <_subject>David^Kidman Kidman</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>907</_x>
+      <_y>526</_y>
+      <_width>190</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>34</_id>
+      <_data>Deidre Logue is set up at the Honey House. His project is a crystal healing garden, growing out the relations between bees, networks, neurological communication, cells, interpersonal connections, dreams, ideas and chemicals.</_data>
+      <_subject>Deirdre Logue</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>917</_x>
+      <_y>487</_y>
+      <_width>205</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>35</_id>
+      <_data>The Department of Unusual Certainties is set up at Strickler House. Their project is a real estate sales center, selling utopian, possible and impossible form of habitat and residences from around the world. Activated by performance artists who will serve as the real estate sales reps.</_data>
+      <_subject>Department^of Unusual^Certainties Unusual^Certanities</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>893</_x>
+      <_y>449</_y>
+      <_width>172</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>36</_id>
+      <_data>Duke and Battersby come to us from the state of New York. They're set up in Maxwell House. Their project is a 'Museum of Natural History' style, full scale diorama showcasing the 90's era grunge 'family' house. That's how the information was given to me - why is family in scare quotes? What's grunge? What did you people do in the 90s? Did something go terribly wrong after I died?</_data>
+      <_subject>Duke Battersby</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>856</_x>
+      <_y>407</_y>
+      <_width>175</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>37</_id>
+      <_data>Frank Havermans comes to us from Holland. He's set up in Strickler Barn. His project is a site specific architectural installation that works with the existing infrastructure (specifically, hooks and pulleys) inside the barn.</_data>
+      <_subject>Frank^Havermans Havermans</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>178</_x>
+      <_y>535</_y>
+      <_width>201</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>38</_id>
+      <_data>Iain Baxter comes to us from Windsor, and is set up in Strickler Field. His project is a maze that grows both out of and onto the land, and leads wanderers through a series of questions about the environment, sustainabilty, the future and the deep interconnectivity of life, information and the world.</_data>
+      <_subject>Iain Baxter</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>198</_x>
+      <_y>574</_y>
+      <_width>203</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>39</_id>
+      <_data>Jeff Thomas comes to us from Ottawa. He is set up at the Train Station. His proejct is a photo series that traces the disappearance of native communities along the line of the trans-Canada highway. Through a combination of deep historical research and playful intervention, the communities are reintroduced in a set of post-cards of Canada's iconic scenery.</_data>
+      <_subject>Jeff^Thomas</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>241</_x>
+      <_y>610</_y>
+      <_width>195</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>40</_id>
+      <_data>Jennie Suddick, a Markham resident, is set up in Burkholder House. Her project is a centre distributing cards featuring 'Markham Trails', created out of community stories, videos of community stories, and maquette installation of model homes.</_data>
+      <_subject>Jennie Suddick</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>288</_x>
+      <_y>648</_y>
+      <_width>189</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>41</_id>
+      <_data>Sky Hill Farms, with Jon Radjokovic and his family, is set up in Burholder Field. Their project is an idiosyncratic hybrid barn built by a self taught farmer, journalist, activist and architect, who has lived off the grid for 30 years. The barn, built of a mix of old, new, futuistic materials, postulates future modes of habitation.</_data>
+      <_subject>Sky^Hill Radjokovic</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>429</_x>
+      <_y>658</_y>
+      <_width>188</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>42</_id>
+      <_data>Julie Nagam is set up at the Wagon Shed. Her project is a Wigwam built out of birch and animal skins by Elders from Saskatchewan. It is illuminated by motion activates video and sounds. This traditional habitat will evoke aboriginal ossuaries and serve as a community memorial of loss.</_data>
+      <_subject>Julie^Nagam Nagam</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>611</_x>
+      <_y>659</_y>
+      <_width>178</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>43</_id>
+      <_data>Ken Gregory comes to us from Winnipeg. His location on the Museum seems to vary. His project is a series of photosensitive robot assemblages that serve as weather and environmental messengers. Each robot, called a 'sun soaker', reads environmental and mabient data, and transmits them as soudn and light signals.</_data>
+      <_subject>Ken^Gregory</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>791</_x>
+      <_y>659</_y>
+      <_width>179</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>44</_id>
+      <_data>Laura St. Pierre comes to us from Alberta. She is set up outdoors, behind the Saw Mill. Her project is an urban vernacular site-specific structure composed of found waste and garbage on an industrial site. These temporary structures are human responses to immediate conditions of an environment that eliminate the distinction between personal and public, commerical and convival. The project is presented as a 40 ft custom built light box, documenting a previous urban vernacular structure built by the artist.</_data>
+      <_subject>St^Pierre St.^Pierre</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>969</_x>
+      <_y>652</_y>
+      <_width>173</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>45</_id>
+      <_data>Maria Hupfield comes to us from New York. She is set up at the Archives. her project is a 'curation-installation' re-installing everday objects in the accessible part of the archive, with the theme of native history.</_data>
+      <_subject>Maria Hupfield</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>1020</_x>
+      <_y>611</_y>
+      <_width>180</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>46</_id>
+      <_data>Marman and Borins are set up the Blacksmith Shop. Their project is an object driven installation that explores the form of craft objects, in collaboration with blacksmiths.</_data>
+      <_subject>Marman Borins</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>1070</_x>
+      <_y>571</_y>
+      <_width>173</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>47</_id>
+      <_data>Mark David Hosale comes to us from Los Angeles. He is set up in the North Gallery. His project is a large scale fiber-optic light and sound sculpture, taking the sinewy form of nerves, or veins or vines - that reacts and visualizes a range of micro (body heat, amcient light, number of visitors) and macro (the greenbelt, the polar icecap,t he shifts in the ionosphere) data - in real time.</_data>
+      <_subject>Mark^David^Hosale Hosale</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>1103</_x>
+      <_y>531</_y>
+      <_width>188</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>48</_id>
+      <_data>Patricio Davila and Dave Colangelo are set up at the exterior of Kinnee Barn. Their project is a large-scale audience driven interactive video projection that documents the proliferation of lines in nature and their use as a default motif in human interaction with the natural world.</_data>
+      <_subject>Patricio Davila Dave^Colangelo Colangelo</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>160</_x>
+      <_y>496</_y>
+      <_width>210</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>49</_id>
+      <_data>Philip Hoffman is set up at the Slaughter House. His project is a transformation of a building into a camera obscura, featuring a loosely tied narrative of the plight of modern farmers, viewed through natural holes in a building's walls.</_data>
+      <_subject>Philip^Hoffman Hoffman</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>1111</_x>
+      <_y>492</_y>
+      <_width>172</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>50</_id>
+      <_data>Sean Martindale and Lisa Myers are set up at Burkholder Shed. Their project is a series of meals concocted by artists and trained chefs using 'five white gifts' - flour, sugar, salt, lard, and milk - foodstuffs introduced to aboriginal communities by colonial settlers - to create a uniquely multicultural cuisine, influenced by the Chinese, Canadian and South Asian communities of Markham.</_data>
+      <_subject>Sean Martindale Lisa^Myers Myers</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>1110</_x>
+      <_y>451</_y>
+      <_width>178</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>51</_id>
+      <_data>Terrence Houle's location has not been determined. His project is a sound and shadow box peice evoking the hidden lives and rendevouz of the people of Markham.</_data>
+      <_subject>Terrence Houle</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>170</_x>
+      <_y>457</_y>
+      <_width>185</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>52</_id>
+      <_data>The Tongue and Groove Collective is set up on the fences of either the north or south side of the Museum. Their project is an abandoned doll house, recreated into a modern heritage building.</_data>
+      <_subject>Tongue Groove</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>450</_x>
+      <_y>712</_y>
+      <_width>193</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>53</_id>
+      <_data>Xu Tan comes to us from Shenzhen, China. He is set up outdoors, by the Mini Train Tracks. His project is an echo wall, serving as pavillion for engagement and itneraction, featuring members of Markham's Chinese community.</_data>
+      <_subject>Xu Tan</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>648</_x>
+      <_y>715</_y>
+      <_width>201</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>54</_id>
+      <_data>David Han is set up at the Concession Stand. His project is a series of 'mis-guided' tours of the Museum, an augmented reality app,that takes audiences through a new view of the site drawn from the stories of individuals who were part of the 'first wave' of Asian immigration to Markham.</_data>
+      <_subject>David^Han Han</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>837</_x>
+      <_y>711</_y>
+      <_width>178</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>55</_id>
+      <_data>Glynis Logue is set up throughout the site. Her project is a 500 mile long river of sunflowers, ranging from two feet to ten, that courses through the site and proposes a new (old) way of dividing up the land.</_data>
+      <_subject>Glynis Logue</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections>
+        <int>10</int>
+      </connections>
+      <dependencies />
+      <options />
+      <_x>1085</_x>
+      <_y>413</_y>
+      <_width>175</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>56</_id>
+      <_data>David Harris Smith is set up right here. I'm his project - a Second Life recreation of the first curator of the Markham Museum, as he wanders collecting and building the site. Greetings.</_data>
+      <_subject>Dr^Smith Dr^David David Harris Smith</_subject>
+      <_state>-1</_state>
+    </textNode>
+  </nodes>
+  <tours>
+    <botTours>
+      <tourLocs>
+        <Vector3>
+          <X>10</X>
+          <Y>10</Y>
+          <Z>25</Z>
+        </Vector3>
+        <Vector3>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>25</Z>
+        </Vector3>
+      </tourLocs>
+      <tourInfo>
+        <ArrayOfString>
+          <string>Yay?</string>
+          <string>Woo?</string>
+        </ArrayOfString>
+        <ArrayOfString />
+      </tourInfo>
+      <tourName>Tour 1</tourName>
+      <_id>1</_id>
+      <enabled>false</enabled>
+    </botTours>
+    <botTours>
+      <tourLocs>
+        <Vector3>
+          <X>62.9022446</X>
+          <Y>30.6158524</Y>
+          <Z>25.9632664</Z>
+        </Vector3>
+      </tourLocs>
+      <tourInfo>
+        <ArrayOfString>
+          <string>These are some lovely trees.</string>
+        </ArrayOfString>
+      </tourInfo>
+      <tourName />
+      <_id>2</_id>
+      <enabled>false</enabled>
+    </botTours>
+  </tours>
+  <stories>
+    <botStories>
+      <_title>Default</_title>
+      <paragraphs>
+        <string>Oh my God</string>
+        <string>Please work</string>
+        <string>You cock.</string>
+      </paragraphs>
+      <tweeted>false</tweeted>
+      <_id>1</_id>
+    </botStories>
+  </stories>
+  <routines />
+  <_default>0</_default>
+</BotStorage>

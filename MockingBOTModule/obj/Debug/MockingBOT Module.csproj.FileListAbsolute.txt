@@ -1,0 +1,56 @@
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\log4net.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Mono.Addins.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Nini.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenMetaverse.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenMetaverseTypes.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenSim.Framework.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenSim.Region.Framework.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenMetaverse.StructuredData.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\XMLRPC.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Mono.Addins.Setup.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\SmartThreadPool.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenSim.Framework.Servers.HttpServer.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenSim.Services.Interfaces.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenSim.Region.Physics.Manager.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenSim.Capabilities.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenSim.Framework.Monitoring.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenSim.Framework.Serialization.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenSim.Framework.Servers.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Ionic.Zip.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\HttpServer_OpenSim.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenSim.Framework.Console.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenMetaverse.xml
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenMetaverseTypes.xml
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\OpenMetaverse.StructuredData.xml
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\HttpServer_OpenSim.pdb
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\HttpServer_OpenSim.xml
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\justin\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\MockingBOT.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\MockingBOT.pdb
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\OpenMetaverse.StructuredData.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\XMLRPC.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\Mono.Addins.Setup.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\SmartThreadPool.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\OpenSim.Framework.Servers.HttpServer.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\OpenSim.Services.Interfaces.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\OpenSim.Region.Physics.Manager.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\OpenSim.Capabilities.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\OpenSim.Framework.Monitoring.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\OpenSim.Framework.Serialization.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\OpenSim.Framework.Servers.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\Ionic.Zip.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\HttpServer_OpenSim.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\OpenSim.Framework.Console.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\OpenMetaverse.xml
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\OpenMetaverseTypes.xml
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\OpenMetaverse.StructuredData.xml
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\HttpServer_OpenSim.pdb
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\bin\Debug\HttpServer_OpenSim.xml
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\obj\Debug\MockingBOT Module.csprojResolveAssemblyReference.cache
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\obj\Debug\MockingBOT.dll
+C:\Users\justin\Desktop\opensim-0.7.5\MockingBotModule\obj\Debug\MockingBOT.pdb
+C:\Users\justin\Desktop\opensim-0.7.5\bin\MockingBOT.dll
+C:\Users\justin\Desktop\opensim-0.7.5\bin\MockingBOT.pdb

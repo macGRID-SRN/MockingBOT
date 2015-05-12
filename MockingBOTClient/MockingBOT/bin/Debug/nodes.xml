@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<ArrayOfTextNode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <textNode>
+    <connections>
+      <int>3</int>
+    </connections>
+    <dependencies />
+    <_x>123</_x>
+    <_y>161</_y>
+    <_width>192</_width>
+    <_height>30</_height>
+    <_id>1</_id>
+    <_data>Hello, my name is MockingBOT.</_data>
+    <_subject>hello hi</_subject>
+    <_color>-2403302</_color>
+  </textNode>
+  <textNode>
+    <connections />
+    <dependencies>
+      <int>4</int>
+    </dependencies>
+    <_x>189</_x>
+    <_y>277</_y>
+    <_width>100</_width>
+    <_height>30</_height>
+    <_id>2</_id>
+    <_data>I love you.</_data>
+    <_color>0</_color>
+  </textNode>
+  <textNode>
+    <connections>
+      <int>1</int>
+    </connections>
+    <dependencies>
+      <int>2</int>
+    </dependencies>
+    <_x>399</_x>
+    <_y>146</_y>
+    <_width>102</_width>
+    <_height>30</_height>
+    <_id>3</_id>
+    <_data>Let's be friends.</_data>
+    <_color>0</_color>
+  </textNode>
+  <textNode>
+    <connections />
+    <dependencies />
+    <_x>389</_x>
+    <_y>331</_y>
+    <_width>192</_width>
+    <_height>81</_height>
+    <_id>4</_id>
+    <_data>Do you have a girlfriend? I could be your girlfriend. I would be a much better one than any fleshbag. For example, I am incapable of headaches.</_data>
+    <_subject />
+    <_color>0</_color>
+  </textNode>
+</ArrayOfTextNode>

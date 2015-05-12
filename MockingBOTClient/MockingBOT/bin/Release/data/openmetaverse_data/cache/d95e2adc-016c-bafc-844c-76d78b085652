@@ -1,0 +1,45 @@
+LLWearable version 22
+New Pants
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	f4680403-aed0-4c44-942d-cc127e8cb6ed
+		owner_id	f4680403-aed0-4c44-942d-cc127e8cb6ed
+		last_owner_id	f4680403-aed0-4c44-942d-cc127e8cb6ed
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 5
+parameters 21
+160 0
+516 0
+614 1
+615 .89
+625 0
+638 0
+793 0
+806 .09
+807 .09
+808 .09
+814 1
+815 .8
+816 0
+869 0
+913 0
+914 1
+915 .91
+1017 1
+1018 .89
+1035 1
+1036 .89
+textures 1
+2 00000000-0000-2222-3333-100000001036

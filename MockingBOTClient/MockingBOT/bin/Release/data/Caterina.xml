@@ -1,0 +1,931 @@
+<?xml version="1.0"?>
+<BotStorage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <bots>
+    <botSettings>
+      <name>New Bot</name>
+      <description />
+      <homeRegion>
+        <Guid>efb29615-3a13-41a3-b458-cf27af7afaa6</Guid>
+      </homeRegion>
+      <homeLoc>
+        <X>128</X>
+        <Y>128</Y>
+        <Z>70</Z>
+      </homeLoc>
+      <moveType>1</moveType>
+      <botType>2</botType>
+      <privateaccess>false</privateaccess>
+      <autotweet>false</autotweet>
+      <idleTime>0</idleTime>
+      <stuckTime>0</stuckTime>
+      <wanderDest>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </wanderDest>
+      <allowednodes>
+        <int>1</int>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+        <int>5</int>
+        <int>5</int>
+        <int>6</int>
+        <int>7</int>
+        <int>8</int>
+        <int>9</int>
+        <int>10</int>
+        <int>11</int>
+        <int>12</int>
+        <int>12</int>
+        <int>13</int>
+        <int>14</int>
+        <int>15</int>
+      </allowednodes>
+      <allowedstories />
+      <allowedroutines />
+      <allowedtours />
+      <casualspeech>false</casualspeech>
+      <speech>
+        <ArrayOfString>
+          <string>Hello, {0}!</string>
+          <string>Would you like me to follow you for a bit?</string>
+          <string>Right behind you.</string>
+          <string>Okay, no problem.</string>
+          <string>...I am following you.</string>
+          <string>Okay! Sorry, did I bother you?</string>
+          <string>Stop what?</string>
+          <string>Tell me a story</string>
+          <string>/me nods attentively</string>
+          <string>/me nods attentively</string>
+          <string>/me nods attentively</string>
+          <string>Is that the end?</string>
+          <string>Thank you for that!</string>
+          <string>Oh - sorry!</string>
+          <string>Okay!</string>
+          <string>I don't know any stories...</string>
+          <string>And that's the end~</string>
+          <string>This way~</string>
+          <string>Would you like to join me?</string>
+          <string>And that is the end of the tour.</string>
+          <string>Okay!</string>
+          <string>Hello!</string>
+          <string>Would you like to stop the tour?</string>
+          <string>Okay! I'm at the next stop. Come join me!</string>
+          <string>Okay! Come talk to me if you change your mind!</string>
+          <string>Tell me when you would like to proceed.</string>
+          <string>This is the end of the tour. Anything else you would like to know?</string>
+          <string>Okay!</string>
+          <string>...We weren't on a tour, were we?</string>
+          <string>I tripped a flood detect. I'm sorry, I didn't mean to!</string>
+          <string>Okay! Attempting to teleport.</string>
+          <string>/me diligently takes notes.</string>
+          <string>/me nods and writes down {0}.</string>
+          <string>/me nods attentively</string>
+          <string>/me nods attentively</string>
+          <string>/me nods attentively</string>
+          <string>Okay!</string>
+          <string>...We weren't on a tour, were we?</string>
+          <string>Sorry, you're not on the access list. I'm only for private use at the moment</string>
+          <string>/me shifts uncomfortably. | /me looks away. | /me bites her lip furiously. | /me shakes her head slightly.</string>
+          <string>Great!</string>
+          <string>Okay!</string>
+          <string>All right.</string>
+          <string>All right!</string>
+          <string>Oh, okay...</string>
+          <string>Arright, no problem.</string>
+          <string>:(</string>
+          <string>Thank you!</string>
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string />
+          <string>Wanna hear a story?</string>
+          <string>Thank you! This is where I wanted to be.</string>
+          <string>Take care!</string>
+          <string>...Should I finish the story?</string>
+          <string>/me waves.</string>
+          <string>/me sighs.</string>
+          <string>I am on my way to {0}, which is about {1} miles going {2}.</string>
+          <string>I am on my way to {0}.</string>
+          <string>Hey, we're in {0}.</string>
+          <string>Hello again, {0}!</string>
+          <string>Would you like a tour?</string>
+          <string>Arright. Come talk to me if you change your mind.</string>
+          <string>No tours available.</string>
+          <string>I wasn't following you.</string>
+          <string>Shutting up.</string>
+          <string>Tweeted!</string>
+          <string>That's too long to tweet! It was {0} characters - {1} too many!</string>
+          <string>The date is {0}. Conditions are {1}, with a low of {2} and a high of {3}.</string>
+          <string>May I share it?</string>
+          <string />
+          <string>I don't believe that's a proper command.</string>
+        </ArrayOfString>
+      </speech>
+      <currentspeech>0</currentspeech>
+      <speechnames>
+        <string>Default</string>
+      </speechnames>
+      <sbindings>
+        <string>Greeting</string>
+        <string>Ask to follow</string>
+        <string>Confirm follow</string>
+        <string>Deny follow</string>
+        <string>Asked to follow; already following</string>
+        <string>Asked to stop following</string>
+        <string>Askd to stop following; not following</string>
+        <string>Ask for a story</string>
+        <string>Hearing story</string>
+        <string>Hearing story 2</string>
+        <string>Hearing story 3</string>
+        <string>Hearing story; ask if over</string>
+        <string>Hearing story; story over</string>
+        <string>Hearing story; story not over</string>
+        <string>Tell story; success</string>
+        <string>Tell story; no stories</string>
+        <string>Telling story; story over</string>
+        <string>Go to tour location</string>
+        <string>Tourist teleport</string>
+        <string>Tour end</string>
+        <string>Reached tour spot; begin explanation</string>
+        <string>Reached tour spot; greet latecomer tourist; begin explanation</string>
+        <string>Tourist late; ask to stop tour</string>
+        <string>Tourist late; don't stop</string>
+        <string>Tourist late; stop</string>
+        <string>End tour spot; more to go</string>
+        <string>End tour spot; last spot</string>
+        <string>Stop tour</string>
+        <string>Stop tour; wasn't touring</string>
+        <string>Flood detected</string>
+        <string>Ask to teleport</string>
+        <string>Asked to start learning tour</string>
+        <string>Point out tourist spot</string>
+        <string>Hear story about tourist spot</string>
+        <string>Hear story about tourist spot 2</string>
+        <string>Hear story about tourist spot 3</string>
+        <string>Stop teaching</string>
+        <string>Stop teaching; wasn't learning</string>
+        <string>Not on access list</string>
+        <string>Doesn't have response</string>
+        <string>Happy exclamation</string>
+        <string>Happy exclamation 2</string>
+        <string>'All right'; spoken</string>
+        <string>'All right'; exclamation</string>
+        <string>Rejected 1</string>
+        <string>Rejected 2</string>
+        <string>Sad exclamation</string>
+        <string>Thank you</string>
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string />
+        <string>Ask to tell story</string>
+        <string>Hitchhiking; reached destination</string>
+        <string>Hitchhiking; farewell</string>
+        <string>Hitchhiking; Ask to finish story</string>
+        <string>Sees person; waves</string>
+        <string>Person passes by</string>
+        <string>Tell where going</string>
+        <string>Tell where going; city only</string>
+        <string>Note city</string>
+        <string>Greeting a known person</string>
+        <string>Ask to give tour</string>
+        <string>Tour refused</string>
+        <string>No tours available</string>
+        <string>Asked to stop following; wasn't</string>
+        <string>Asked to stop talking</string>
+        <string>Tweeted</string>
+        <string>Can't tweet; too long</string>
+        <string>Weather</string>
+        <string>Ask to share story</string>
+        <string />
+        <string>Improper command</string>
+      </sbindings>
+      <alist>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+        <UUID>
+          <Guid>1d3ae678-1669-4a8a-883c-ae49d1678d99</Guid>
+        </UUID>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>9b79b5cf-a511-4019-834c-111ca5905538</Guid>
+        </UUID>
+      </alist>
+      <wordsKnown>
+        <string>why</string>
+        <string>did</string>
+        <string>she</string>
+        <string>return</string>
+        <string>pardon</string>
+        <string>pardon</string>
+        <string>to</string>
+        <string>whom</string>
+        <string>am</string>
+        <string>i</string>
+        <string>speaking</string>
+        <string>shall</string>
+        <string>we</string>
+        <string>proceed</string>
+        <string>caterina</string>
+        <string>was</string>
+        <string>it</string>
+        <string>this</string>
+        <string>girl</string>
+        <string>if</string>
+        <string>then</string>
+        <string>wreak</string>
+        <string>my</string>
+        <string>spite</string>
+        <string>so</string>
+        <string>fully</string>
+        <string>him</string>
+        <string>while</string>
+        <string>her</string>
+        <string>inflict</string>
+        <string>the</string>
+        <string>discomfort</string>
+        <string>of</string>
+        <string>posing</string>
+        <string>in</string>
+        <string>such</string>
+        <string>strange</string>
+        <string>attitudes</string>
+        <string>for</string>
+        <string>a</string>
+        <string>length</string>
+        <string>timewhich</string>
+        <string>beside</string>
+        <string>pleasure</string>
+        <string>derive</string>
+        <string>brings</string>
+        <string>me</string>
+        <string>both</string>
+        <string>profit</string>
+        <string>and</string>
+        <string>credit</string>
+        <string>through</string>
+        <string>artwhat</string>
+        <string>more</string>
+        <string>can</string>
+        <string>desire</string>
+        <string>when</string>
+        <string>excused</string>
+        <string>conduct</string>
+        <string>by</string>
+        <string>narrating</string>
+        <string>all</string>
+        <string>tricks</string>
+        <string>which</string>
+        <string>mother</string>
+        <string>had</string>
+        <string>played</string>
+        <string>off</string>
+        <string>under</string>
+        <string>own</string>
+        <string>roof</string>
+        <string>is</string>
+        <string>model</string>
+        <string>9</string>
+        <string>10</string>
+        <string>7</string>
+        <string>5</string>
+        <string>3</string>
+        <string>1</string>
+        <string>lets</string>
+        <string>begin</string>
+        <string>man</string>
+        <string>makes</string>
+        <string>trade</string>
+        <string>what</string>
+        <string>about</string>
+        <string>people</string>
+        <string>watching</string>
+        <string>on</string>
+        <string>other</string>
+        <string>side</string>
+        <string>that</string>
+        <string>camera</string>
+        <string>dont</string>
+        <string>you</string>
+        <string>look</string>
+        <string>at</string>
+        <string>not</string>
+        <string>wicked</string>
+        <string>braggart</string>
+        <string>too</string>
+        <string>barely</string>
+        <string>remember</string>
+        <string>name</string>
+        <string>used</string>
+        <string>your</string>
+        <string>sculpture</string>
+        <string>king</string>
+        <string>france</string>
+        <string>nymph</string>
+        <string>fountainebleau</string>
+        <string>do</string>
+        <string>know</string>
+        <string>now</string>
+        <string>8</string>
+        <string>6</string>
+        <string>4</string>
+        <string>2</string>
+        <string>who</string>
+        <string>sacrifice</string>
+        <string>another</string>
+        <string>here</string>
+        <string>pie</string>
+        <string>does</string>
+        <string>matter</string>
+        <string>marry</string>
+        <string>first</string>
+        <string>time</string>
+        <string>perceived</string>
+        <string>acted</string>
+        <string>very</string>
+        <string>wrongly</string>
+        <string>losing</string>
+        <string>grand</string>
+        <string>brought</string>
+        <string>honour</string>
+        <string>art</string>
+        <string>how</string>
+        <string>could</string>
+        <string>treat</string>
+        <string>cruelly</string>
+        <string>moreover</string>
+        <string>saw</string>
+        <string>body</string>
+        <string>torn</string>
+        <string>bruised</string>
+        <string>swollen</string>
+        <string>reflected</string>
+        <string>even</string>
+        <string>persuaded</string>
+        <string>should</string>
+        <string>have</string>
+        <string>put</string>
+        <string>medical</string>
+        <string>treatment</string>
+        <string>least</string>
+        <string>fortnight</string>
+        <string>before</string>
+        <string>make</string>
+        <string>use</string>
+        <string>but</string>
+        <string>were</string>
+        <string>would</string>
+        <string>done</string>
+        <string>differently</string>
+        <string>work</string>
+        <string>as</string>
+        <string>benefit</string>
+        <string>being</string>
+        <string>an</string>
+        <string>unmarried</string>
+        <string />
+      </wordsKnown>
+      <wordTypes>
+        <string>Adverb</string>
+        <string>Verb</string>
+        <string>Pronoun</string>
+        <string>Verb</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Preposition</string>
+        <string>Pronoun</string>
+        <string>Abbreviation</string>
+        <string>Symbol</string>
+        <string>Noun</string>
+        <string>Verb (modal)</string>
+        <string>Pronoun</string>
+        <string>Verb</string>
+        <string>Noun</string>
+        <string>Verb</string>
+        <string>Pronoun</string>
+        <string>Pronoun</string>
+        <string>Noun</string>
+        <string>Conjunction</string>
+        <string>Adverb</string>
+        <string>Verb</string>
+        <string>Determiner (possessive)</string>
+        <string>Noun</string>
+        <string>Adverb</string>
+        <string>Adverb</string>
+        <string>Pronoun</string>
+        <string>Noun</string>
+        <string>Pronoun</string>
+        <string>Verb</string>
+        <string>Determiner</string>
+        <string>Noun</string>
+        <string>Preposition</string>
+        <string>Verb</string>
+        <string>Preposition</string>
+        <string>Determiner</string>
+        <string>Adjective</string>
+        <string>Noun</string>
+        <string>Preposition</string>
+        <string>Determiner</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Preposition</string>
+        <string>Noun</string>
+        <string>Verb</string>
+        <string>Verb</string>
+        <string>Pronoun</string>
+        <string>Predeterminer</string>
+        <string>Noun</string>
+        <string>Conjunction</string>
+        <string>Noun</string>
+        <string>Preposition</string>
+        <string>Noun</string>
+        <string>Determiner</string>
+        <string>Verb (modal)</string>
+        <string>Noun</string>
+        <string>Adverb</string>
+        <string>Verb</string>
+        <string>Noun</string>
+        <string>Preposition</string>
+        <string>Verb</string>
+        <string>Predeterminer</string>
+        <string>Noun</string>
+        <string>Pronoun (interrogative)</string>
+        <string>Noun</string>
+        <string>Verb</string>
+        <string>Verb</string>
+        <string>Adverb</string>
+        <string>Preposition</string>
+        <string>Adjective</string>
+        <string>Noun</string>
+        <string>Verb</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Verb</string>
+        <string>Verb</string>
+        <string>Noun</string>
+        <string>Verb</string>
+        <string>Noun</string>
+        <string>Pronoun</string>
+        <string>Preposition</string>
+        <string>Noun (plural)</string>
+        <string>Verb</string>
+        <string>Preposition</string>
+        <string>Adjective</string>
+        <string>Noun</string>
+        <string>Pronoun</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Pronoun</string>
+        <string>Verb</string>
+        <string>Preposition</string>
+        <string>Adverb</string>
+        <string>Adjective</string>
+        <string>Noun</string>
+        <string>Adverb</string>
+        <string>Adverb</string>
+        <string>Verb</string>
+        <string>Noun</string>
+        <string>Adjective</string>
+        <string>Determiner (possessive)</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Verb</string>
+        <string>Verb</string>
+        <string>Adverb</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Pronoun</string>
+        <string>Noun</string>
+        <string>Determiner</string>
+        <string>Adverb</string>
+        <string>Noun</string>
+        <string>Verb</string>
+        <string>Noun</string>
+        <string>Verb</string>
+        <string>Number (ordinal)</string>
+        <string>Noun</string>
+        <string>Verb</string>
+        <string>Verb</string>
+        <string>Adverb</string>
+        <string>Noun</string>
+        <string>Verb</string>
+        <string>Adjective</string>
+        <string>Verb</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Adverb</string>
+        <string>Verb (modal)</string>
+        <string>Verb</string>
+        <string>Noun</string>
+        <string>Adverb</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Verb</string>
+        <string>Verb</string>
+        <string>Verb</string>
+        <string>Verb</string>
+        <string>Adjective</string>
+        <string>Verb</string>
+        <string>Verb (modal)</string>
+        <string>Verb</string>
+        <string>Verb</string>
+        <string>Adjective</string>
+        <string>Noun</string>
+        <string>Determiner</string>
+        <string>Noun</string>
+        <string>Preposition</string>
+        <string>Verb</string>
+        <string>Verb</string>
+        <string>Conjunction</string>
+        <string>Verb</string>
+        <string>Verb (modal)</string>
+        <string>Verb</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Adverb</string>
+        <string>Noun</string>
+        <string>Noun</string>
+        <string>Adjective</string>
+        <string>Adjective</string>
+        <string>Noun</string>
+      </wordTypes>
+      <mPeople>
+        <UUID>
+          <Guid>f2c7a3cb-6de6-431a-858c-95188d946917</Guid>
+        </UUID>
+        <UUID>
+          <Guid>d37f214a-2d4d-423e-85d1-efe06daf74fa</Guid>
+        </UUID>
+        <UUID>
+          <Guid>3fc54a4a-9d02-442b-b879-ddbc1ad60ee7</Guid>
+        </UUID>
+        <UUID>
+          <Guid>985c5f4d-7eb0-4c9d-b830-355f2fa18018</Guid>
+        </UUID>
+      </mPeople>
+      <mRelationship>
+        <int>1</int>
+        <int>1</int>
+        <int>0</int>
+        <int>0</int>
+      </mRelationship>
+      <mLearning>
+        <ArrayOfInt>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+        </ArrayOfInt>
+        <ArrayOfInt>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+        </ArrayOfInt>
+        <ArrayOfInt>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>1</int>
+          <int>0</int>
+          <int>0</int>
+        </ArrayOfInt>
+        <ArrayOfInt>
+          <int>0</int>
+          <int>1</int>
+          <int>0</int>
+          <int>1</int>
+          <int>1</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>1</int>
+          <int>1</int>
+          <int>0</int>
+          <int>0</int>
+          <int>1</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+        </ArrayOfInt>
+      </mLearning>
+      <mTwitter />
+      <idleLoc>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </idleLoc>
+    </botSettings>
+  </bots>
+  <nodes>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>102</_x>
+      <_y>38</_y>
+      <_width>168</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>1</_id>
+      <_data>The people watching are on the other side of that camera. Why won't you look at me?</_data>
+      <_subject>whom^speaking</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>112</_x>
+      <_y>84</_y>
+      <_width>165</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>2</_id>
+      <_data>Are you not a wicked man, and a braggart too? </_data>
+      <_subject>shall^proceed</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>108</_x>
+      <_y>126</_y>
+      <_width>181</_width>
+      <_height>30</_height>
+      <_color>0</_color>
+      <_id>3</_id>
+      <_data>…You barely remember my name?</_data>
+      <_subject>Caterina^was</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>314</_x>
+      <_y>52</_y>
+      <_width>199</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>4</_id>
+      <_data>I was. You used me for your sculpture for the King of France. I am the Nymph of Fountainebleau. Do you know me now?</_data>
+      <_subject>she^work^model</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>624</_x>
+      <_y>52</_y>
+      <_width>100</_width>
+      <_height>30</_height>
+      <_color>0</_color>
+      <_id>5</_id>
+      <_data>8?</_data>
+      <_subject>9</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>619</_x>
+      <_y>90</_y>
+      <_width>100</_width>
+      <_height>30</_height>
+      <_color>0</_color>
+      <_id>6</_id>
+      <_data>6?</_data>
+      <_subject>7</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>620</_x>
+      <_y>137</_y>
+      <_width>100</_width>
+      <_height>30</_height>
+      <_color>0</_color>
+      <_id>7</_id>
+      <_data>4?</_data>
+      <_subject>5</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>620</_x>
+      <_y>193</_y>
+      <_width>100</_width>
+      <_height>30</_height>
+      <_color>0</_color>
+      <_id>8</_id>
+      <_data>2?</_data>
+      <_subject>3</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>630</_x>
+      <_y>241</_y>
+      <_width>100</_width>
+      <_height>30</_height>
+      <_color>0</_color>
+      <_id>9</_id>
+      <_data>Let's begin?</_data>
+      <_subject>1</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>115</_x>
+      <_y>163</_y>
+      <_width>177</_width>
+      <_height>30</_height>
+      <_color>0</_color>
+      <_id>10</_id>
+      <_data>You don't remember me, do you?</_data>
+      <_subject>man^trade</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>126</_x>
+      <_y>199</_y>
+      <_width>195</_width>
+      <_height>30</_height>
+      <_color>0</_color>
+      <_id>11</_id>
+      <_data>Why did you sacrifice me to another?</_data>
+      <_subject>why^are^here</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>123</_x>
+      <_y>247</_y>
+      <_width>173</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>12</_id>
+      <_data>Do you love me? I think you only care about your art.</_data>
+      <_subject>you^marry</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>111</_x>
+      <_y>292</_y>
+      <_width>185</_width>
+      <_height>30</_height>
+      <_color>0</_color>
+      <_id>13</_id>
+      <_data>How could you treat me so cruelly?</_data>
+      <_subject>desire</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>437</_x>
+      <_y>202</_y>
+      <_width>195</_width>
+      <_height>37</_height>
+      <_color>0</_color>
+      <_id>14</_id>
+      <_data>How many days did I lay, my wounds slow to heal?</_data>
+      <_subject>differently</_subject>
+      <_state>-1</_state>
+    </textNode>
+    <textNode>
+      <connections />
+      <dependencies />
+      <options />
+      <_x>379</_x>
+      <_y>299</_y>
+      <_width>128</_width>
+      <_height>30</_height>
+      <_color>0</_color>
+      <_id>15</_id>
+      <_data>I think we're done here.</_data>
+      <_subject>unmarried</_subject>
+      <_state>-1</_state>
+    </textNode>
+  </nodes>
+  <tours />
+  <stories />
+  <routines />
+  <_default>0</_default>
+</BotStorage>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfTextNode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0"?>
+<Vector3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <X>0</X>
+  <Y>0</Y>
+  <Z>0</Z>
+</Vector3>

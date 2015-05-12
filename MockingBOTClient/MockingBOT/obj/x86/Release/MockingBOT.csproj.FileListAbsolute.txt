@@ -1,0 +1,71 @@
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\WindowsFormsApplication1.MockingBOT.resources
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\MockingBOT.csproj.GenerateResource.Cache
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\ChirpBOT.exe.config
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\ChirpBOT.exe
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\ChirpBOT.pdb
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenMetaverse.StructuredData.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\XMLRPC.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\log4net.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenMetaverse.xml
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenMetaverseTypes.xml
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenMetaverse.StructuredData.xml
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\ChirpBOT.exe
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\ChirpBOT.pdb
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\Newtonsoft.Json.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\MockingBOT.csprojResolveAssemblyReference.cache
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\ChirpBOT.exe.config
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\ChirpBOT.exe
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\ChirpBOT.pdb
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\LinqToTwitter.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\Lithium.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\Newtonsoft.Json.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenMetaverse.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenMetaverseTypes.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenNLP.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenSim.Framework.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\SharpEntropy.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\SharpEntropySqlite.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\SharpWordNet.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\System.Data.SQLite.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenMetaverse.StructuredData.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\XMLRPC.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\log4net.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\Mono.Addins.Setup.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\Mono.Addins.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\Nini.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\SmartThreadPool.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\Ionic.Zip.dll
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenMetaverse.xml
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenMetaverseTypes.xml
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenMetaverse.StructuredData.xml
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\WindowsFormsApplication1.MockingBOT.resources
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\ChirpBOT.exe
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\ChirpBOT.pdb
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\ChirpBOT.exe.manifest
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\bin\Release\ChirpBOT.application
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\ChirpBOT.exe.manifest
+C:\Users\J. Beaul\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\ChirpBOT.application
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\ChirpBOT.exe.manifest
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\ChirpBOT.application
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\LinqToTwitter.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\Lithium.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenMetaverse.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenMetaverseTypes.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenNLP.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\OpenSim.Framework.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\SharpEntropy.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\SharpEntropySqlite.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\SharpWordNet.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\System.Data.SQLite.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\Mono.Addins.Setup.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\Mono.Addins.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\Nini.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\SmartThreadPool.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\bin\Release\Ionic.Zip.dll
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\ChirpBOT.exe.manifest
+C:\Users\justin\Dropbox\MockingBOT\MockingBOT\obj\x86\Release\ChirpBOT.application

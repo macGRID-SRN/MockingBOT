@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C043DA25-0D49-4DD9-BBC7-73A572539378}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MockingBOT</RootNamespace>
+    <AssemblyName>MockingBOT</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LinqToTwitter, Version=2.1.6.0, Culture=neutral, PublicKeyToken=957107be965c25d9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\LinqToTwitter.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\..\..\..\..\Desktop\opensim-0.7.5\bin\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Addins">
+      <HintPath>..\..\..\..\..\Desktop\opensim-0.7.5\bin\Mono.Addins.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Nini">
+      <HintPath>..\..\..\..\..\Desktop\opensim-0.7.5\bin\Nini.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenMetaverse">
+      <HintPath>..\..\..\..\..\Desktop\opensim-0.7.5\bin\OpenMetaverse.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenMetaverse.StructuredData, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\OpenMetaverse.StructuredData.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenMetaverseTypes">
+      <HintPath>..\..\..\..\..\Desktop\opensim-0.7.5\bin\OpenMetaverseTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenNLP">
+      <HintPath>bin\OpenNLP.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenSim.Framework">
+      <HintPath>..\..\..\..\..\Desktop\opensim-0.7.5\bin\OpenSim.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenSim.Region.CoreModules, Version=0.7.5.41891, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\OpenSim.Region.CoreModules.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenSim.Region.Framework">
+      <HintPath>..\..\..\..\..\Desktop\opensim-0.7.5\bin\OpenSim.Region.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenSim.Region.OptionalModules, Version=0.7.5.41894, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\OpenSim.Region.OptionalModules.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenSim.Server.Base, Version=0.7.5.41889, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\OpenSim.Server.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenSim.Server.Handlers, Version=0.7.5.41890, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\OpenSim.Server.Handlers.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenSim.Services.Interfaces, Version=0.7.5.41885, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\OpenSim.Services.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenSim.Services.LLLoginService, Version=0.7.5.41897, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\OpenSim.Services.LLLoginService.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpEntropy">
+      <HintPath>bin\SharpEntropy.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpEntropySqlite">
+      <HintPath>bin\SharpEntropySqlite.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpWordNet">
+      <HintPath>bin\SharpWordNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="XMLRPC, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\XMLRPC.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Class2.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

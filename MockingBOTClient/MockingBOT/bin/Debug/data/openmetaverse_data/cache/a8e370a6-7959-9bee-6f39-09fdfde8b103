@@ -1,0 +1,63 @@
+LLWearable version 22
+New Jacket
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	f4680403-aed0-4c44-942d-cc127e8cb6ed
+		owner_id	f4680403-aed0-4c44-942d-cc127e8cb6ed
+		last_owner_id	f4680403-aed0-4c44-942d-cc127e8cb6ed
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 8
+parameters 38
+606 .12
+607 1
+608 .55
+609 .49
+620 .55
+621 .55
+622 .49
+623 .49
+780 .8
+809 .05
+810 .05
+811 .05
+831 .05
+832 .05
+833 .05
+834 .05
+835 .05
+836 .05
+875 0
+876 0
+877 0
+1019 .12
+1020 .12
+1021 1
+1022 1
+1023 .8
+1024 .8
+1025 .55
+1026 .49
+1027 .55
+1028 .49
+1033 .55
+1034 .49
+1037 .55
+1038 .49
+1039 .12
+1040 1
+1041 .8
+textures 2
+13 5748decc-f629-461c-9a36-a35a221fe21f
+14 5748decc-f629-461c-9a36-a35a221fe21f
